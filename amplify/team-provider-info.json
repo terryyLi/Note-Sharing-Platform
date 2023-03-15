@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "terryamplify1f0f2308": {}
+      },
+      "api": {
+        "terryamplify": {}
+      },
+      "storage": {
+        "terryImageStorage": {}
       }
     }
   }

@@ -1,0 +1,14 @@
+{
+  "resourceName": "terryImageStorage",
+  "policyUUID": "9383b833",
+  "bucketName": "terryamplify222671e0a4364513b0bb4316fa602af0",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
